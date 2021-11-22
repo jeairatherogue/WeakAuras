@@ -1,5 +1,6 @@
 -- Snippet that applies correct power color to your WeakAura. Example: Red for rage. Yellow for Energy.
 -- Should work for Druids who shapeshift too. Color changes depending on your form, so red for bear, yellow for cat.
+-- More info: https://wowpedia.fandom.com/wiki/Power_colors
 -- TO APPLY DO THIS:
 -- In 'Animations' tab -> Main set type to 'Custom' -> Enable 'Color' and set it to 'Custom Function'. Paste code into the custom function window, click 'Accept'.
 function()
